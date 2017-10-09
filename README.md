@@ -1,4 +1,6 @@
 ## Code examples - from the repo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FMIDI.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FMIDI.js?ref=badge_shield)
+
 
 * [Basic](./examples/Basic.html) - the most basic implementation.
 * [MIDIPlayer](./examples/MIDIPlayer.html) - how to parse MIDI files, and interact with the data stream.
@@ -208,3 +210,6 @@ MIDI.setEffects([
 * Flash package: [SoundManager2](http://www.schillmania.com/projects/soundmanager2/) by [Scott Schiller](http://schillmania.com)
 * [jasmid](https://github.com/gasman/jasmid): Reads MIDI file byte-code, and translats into a Javascript array.
 * [base642binary.js](http://blog.danguer.com/2011/10/24/base64-binary-decoding-in-javascript/): Cleans up XML base64-requests for Web Audio API.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FMIDI.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FMIDI.js?ref=badge_large)
